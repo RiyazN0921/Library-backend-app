@@ -1,4 +1,4 @@
-
+//api route => /api/book
 const express = require('express');
 const bookController = require('../controllers/book.controller');
 const authMiddleware = require('../middleware/auth.middleware');

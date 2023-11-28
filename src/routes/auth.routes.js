@@ -1,4 +1,4 @@
-// routes/authRoutes.js
+// api route => /api/auth
 const express = require('express');
 const authController = require('../controllers/Auth.controller');
 const authMiddleware = require('../middleware/auth.middleware');

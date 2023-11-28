@@ -1,4 +1,4 @@
-// routes/patronRoutes.js
+//api route => /api/patron
 const express = require('express');
 const patronController = require('../controllers/patron.controller');
 const authMiddleware = require('../middleware/auth.middleware');
